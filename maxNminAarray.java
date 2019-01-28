@@ -1,3 +1,5 @@
+// Program to find the largest and smallest element in an array.
+
 import java.util.Scanner;
 class maxNminAarray
 {
